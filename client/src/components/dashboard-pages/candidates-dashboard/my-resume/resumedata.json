@@ -1,0 +1,98 @@
+
+{
+    "contact": {
+        "permanent_address": {
+            "country": "India",
+            "pin_code": 401206,
+            "state": "Delhi",
+            "city": "Delhi",
+            "lane2": "hhh",
+            "lane1": "444"
+        },
+        "current_address": {
+            "country": "India",
+            "pin_code": 401206,
+            "state": "Delhi",
+            "city": "Delhi",
+            "lane2": "hhh",
+            "lane1": "444"
+        },
+        "phone": "1234567890",
+        "email": "moustapha.valdemar@deallabs.org"
+    },
+    "name": "Mr. john dean ambrose",
+    "email": "moustapha.valdemar@deallabs.org",
+    "gender": "Male",
+    "dob": "2024-12-22T18:35:31.479Z",
+    "marital_status": "Married",
+    "profile": {
+        "fieldname": "profile",
+        "originalname": "peple.jpg",
+        "encoding": "7bit",
+        "mimetype": "image/jpeg",
+        "destination": "D:\\shivam shukl git repo\\Job_Portal_Server\\uploads\\candidate",
+        "filename": "profile-1736363645062-266057900.jpg",
+        "path": "D:\\shivam shukl git repo\\Job_Portal_Server\\uploads\\candidate\\profile-1736363645062-266057900.jpg",
+        "size": 19590
+    },
+    "cv": {
+        "fieldname": "upload_cv",
+        "originalname": "sample (2).pdf",
+        "encoding": "7bit",
+        "mimetype": "application/pdf",
+        "destination": "D:\\shivam shukl git repo\\Job_Portal_Server\\uploads\\candidate",
+        "filename": "upload_cv-1734892733551-614689653.pdf",
+        "path": "D:\\shivam shukl git repo\\Job_Portal_Server\\uploads\\candidate\\upload_cv-1734892733551-614689653.pdf",
+        "size": 1465
+    },
+    "designation": "Software Developer",
+    "education": [
+        {
+            "name": "Mumbai University",
+            "to": "2022-12-08T06:30:00.000Z",
+            "qualification": "Bachelor of Pharmacy (B.Pharm)",
+            "_id": "67685cbd100a947b977f045d"
+        }
+    ],
+    "employment": [
+        {
+            "name": "WWE",
+            "position": "Nodejs Developer",
+            "department": "Human Resources",
+            "from": "2007-12-20T06:30:00.000Z",
+            "categories": [
+                {
+                    "value": "Petrochemicals",
+                    "label": "Petrochemicals",
+                    "_id": "67685cbd100a947b977f045f"
+                },
+                {
+                    "value": "Fine Chemicals",
+                    "label": "Fine Chemicals",
+                    "_id": "67706650d4482c7e4d56318e"
+                }
+            ],
+            "scope": "BUSINSS",
+            "to": "2011-12-06T06:30:00.000Z"
+       }
+    ],
+    "achievement": [{
+        "year":2022,
+        "description":"description"
+    }],
+    "references": [
+        {
+            "name": "sss",
+            "email": "test@mail.com",
+            "phone": "12356780",
+            "note": "m"
+       }
+    ],
+    "hear_about_us": [
+        "Internet Search",
+        " Friends & Family"
+    ],
+    "experience": 7,
+    "currentsalary": 8,
+    "expectedsalary": 9
+}

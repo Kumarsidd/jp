@@ -1,0 +1,48 @@
+/* Styles for the container */
+.achievements-container {
+    margin: 20px 0;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+
+/* Error message styling */
+.field-error {
+    color: red;
+    font-size: 0.9rem;
+    margin-top: -8px;
+    margin-bottom: 8px;
+}
+
+/* Buttons */
+button.search-partner {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button.search-partner:hover {
+    background-color: #0056b3;
+}
+
+button.search-partner.add- {
+    /* display: block; */
+    /* margin: 10px auto; */
+    float: right;
+}
+
+/* Remove button */
+button.search-partner.add-.mt-0 {
+    background-color: #dc3545;
+    padding: 5px 10px;
+}
+
+button.search-partner.add-.mt-0:hover {
+    background-color: #a71d2a;
+}

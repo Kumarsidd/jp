@@ -1,0 +1,12 @@
+# Client ignores
+/client/node_modules/
+/client/dist/
+
+# Server ignores
+/server/node_modules/
+/server/build/
+
+# Common ignores
+*.log
+.DS_Store
+
